@@ -1,18 +1,18 @@
 # ARQUITECTURA Y SISTEMAS OPERATIVOS
 
-## Parcial 
-
 ## Profesores:
 
 - Profesor: Gustavo Ramoscelli
 - Ayudante: Leandro Regolf
 
-## Intengrantes: 
+## Intengrantes:
 
 - Eleno, Mariano
 - Gonzalez Rodriguez, Sofia Milagros
 - Padin, Emiliano Raul
 - Colman Block, Agustin
+
+## Parcial Grupal
 
 ### Consigna
 
@@ -43,5 +43,3 @@ El link del video debe dejarse en el git del grupo. La fecha del commit puede se
 2. Explicar el algoritmo Shortest Job First
 3. Explicar el algoritmo Round Robin (espera circular)
 4. Explicar el algoritmo de planificación por prioridad
-
-
